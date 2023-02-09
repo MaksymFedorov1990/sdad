@@ -5,3 +5,4 @@ print("Vasya")
 print("Solloveiko")
 >>>>>>> Stashed changes
 print("Nother of Stifler")
+print("Roma loh")
