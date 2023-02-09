@@ -4,4 +4,4 @@ print("Hello")
 print("Vasya")
 print("Solloveiko")
 >>>>>>> Stashed changes
-
+print("Nother of Stifler")
